@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.headerdiv1 {
+    background-color: #52b5e3;
+    color: #ffe5ad;
+    font-family:sans-serif;
+    padding: 10;
+}
+
+.signup {
+    
+    background-color: #94ddff;
+}
